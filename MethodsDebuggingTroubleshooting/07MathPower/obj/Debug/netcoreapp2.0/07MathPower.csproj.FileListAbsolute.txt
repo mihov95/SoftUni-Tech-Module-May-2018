@@ -1,0 +1,10 @@
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\bin\Debug\netcoreapp2.0\07MathPower.deps.json
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\bin\Debug\netcoreapp2.0\07MathPower.runtimeconfig.json
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\bin\Debug\netcoreapp2.0\07MathPower.runtimeconfig.dev.json
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\bin\Debug\netcoreapp2.0\07MathPower.dll
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\bin\Debug\netcoreapp2.0\07MathPower.pdb
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\obj\Debug\netcoreapp2.0\07MathPower.csproj.CoreCompileInputs.cache
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\obj\Debug\netcoreapp2.0\07MathPower.AssemblyInfoInputs.cache
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\obj\Debug\netcoreapp2.0\07MathPower.AssemblyInfo.cs
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\obj\Debug\netcoreapp2.0\07MathPower.dll
+D:\Projects\C# Softuni\Tech Module May 2018\MethodsDebuggingTroubleshooting\07MathPower\obj\Debug\netcoreapp2.0\07MathPower.pdb

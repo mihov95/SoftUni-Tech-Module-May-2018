@@ -1,0 +1,10 @@
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\bin\Debug\netcoreapp2.0\10TriangleNumbers.deps.json
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\bin\Debug\netcoreapp2.0\10TriangleNumbers.runtimeconfig.json
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\bin\Debug\netcoreapp2.0\10TriangleNumbers.runtimeconfig.dev.json
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\bin\Debug\netcoreapp2.0\10TriangleNumbers.dll
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\bin\Debug\netcoreapp2.0\10TriangleNumbers.pdb
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\obj\Debug\netcoreapp2.0\10TriangleNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\obj\Debug\netcoreapp2.0\10TriangleNumbers.AssemblyInfoInputs.cache
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\obj\Debug\netcoreapp2.0\10TriangleNumbers.AssemblyInfo.cs
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\obj\Debug\netcoreapp2.0\10TriangleNumbers.dll
+D:\Projects\C# Softuni\Tech Module May 2018\ConditionsAndLoops-Exercs\ConditionsAndLoops-Exercs\10TriangleNumbers\obj\Debug\netcoreapp2.0\10TriangleNumbers.pdb
